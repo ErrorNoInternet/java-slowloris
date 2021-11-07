@@ -1,5 +1,5 @@
 # JavaSlowLoris
-A simple SlowLoris program made in Java. Supports multithreading, port, and custom number of connections.
+A simple SlowLoris program made in Java. Supports multithreading, custom ports, and custom connections.
 
 ## Usage
 ```sh
